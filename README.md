@@ -1,5 +1,7 @@
 # vscode-config
 
+list extensions for Vscode
+
 ## Before configuration
 
 Configuration for Visual studio code (VSCODE)
