@@ -5,10 +5,14 @@ list extensions for Vscode
 ## Before configuration
 
 Configuration for Visual studio code (VSCODE)
-After downloading and installing vscode, 
+After downloading and installing vscode,
 no extension is installed
 
 ## Extensions for Git
 
-* GitLens
-* Git Graph
+- GitLens
+- Git Graph
+
+## Extensions for formattinf your code
+
+- Prettier - Code formatter
