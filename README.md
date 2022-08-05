@@ -13,6 +13,6 @@ no extension is installed
 - GitLens
 - Git Graph
 
-## Extensions for formattinf your code
+## Extensions to format your code
 
 - Prettier - Code formatter
