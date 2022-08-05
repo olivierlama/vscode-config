@@ -1,6 +1,6 @@
 # vscode-config
 
-list extensions for Vscode
+List extensions for Vscode
 
 ## Before configuration
 
