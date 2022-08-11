@@ -2,6 +2,7 @@
   "recommendations": [
     "mhutchie.git-graph",
     "eamodio.gitlens",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme"
   ]
 }

@@ -13,6 +13,10 @@ no extension is installed
 - GitLens
 - Git Graph
 
-## Extensions to format your code
+## Extensions to format your code (multi language)
 
 - Prettier - Code formatter
+
+## Extensions - Themes
+
+- Material Icon Theme
