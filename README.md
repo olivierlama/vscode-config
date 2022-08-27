@@ -1,16 +1,17 @@
 # vscode-config
 
-List extensions for Vscode
+## Objectives
+
+The goal is to list the different configurations in VSCODE for different types of use.
 
 ## Before configuration
 
-Configuration for Visual studio code (VSCODE)
 After downloading and installing vscode,
 no extension is installed
 
 ## Extensions for Git
 
-- GitLens
+- GitLens-- Git supercharged
 - Git Graph
 
 ## Extensions to format your code (multi language)
@@ -20,3 +21,7 @@ no extension is installed
 ## Extensions - Themes
 
 - Material Icon Theme
+
+## Extensions - Web Live server
+
+- Live server
