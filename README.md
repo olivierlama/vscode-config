@@ -18,6 +18,19 @@ no extension is installed
 
 - Prettier - Code formatter
 
+  **Configuration VSCODE**
+
+  ```json
+  {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+  ```
+
+## Extensions for Javascript only
+
+- ESLINT - ESLint statically analyzes your code to quickly find problems. It is built into most text editors and you can run ESLint as part of your continuous integration pipeline.
+
 ## Extensions - Themes
 
 - Material Icon Theme
